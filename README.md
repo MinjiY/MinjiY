@@ -45,7 +45,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨ BOJ ✨</h3>
 
-|  [C++](https://github.com/MinjiY)  | [<img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku" height="140" width="275px">](https://solved.ac/pinkku) | [Java](https://github.com/MinjiY)  | [<img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku2" height="140" width="275px">](https://solved.ac/pinkku2) |
+<p align="center"> <img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku" height="140" width="275px"> <img src ="http://mazassumnida.wtf/api/generate_badge?boj=pinkku2" height="140" width="275px">
+<p align="center">
+    C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA
+</p> 
+
+
 
 
 
