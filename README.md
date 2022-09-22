@@ -46,13 +46,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
 
-<!-- 
+
 <h3 align="center">✨ BOJ ✨</h3>
 
 <p align="center"> <img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku" height="140" width="275px"> <img src ="http://mazassumnida.wtf/api/generate_badge?boj=pinkku2" height="140" width="275px">
 <p align="center">
     C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA
-</p>  -->
+</p>
 
 
 
