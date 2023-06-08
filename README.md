@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-ff8200?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
 </p>
 
 
