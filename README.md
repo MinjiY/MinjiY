@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">🍹 Certificate 🍹</h3>
-  <a href="https://www.credly.com/badges/300e6185-6f5b-4105-96f7-062169a19056/public_url">
+  <p align="center"> 
+  <p align="center"> <a href="https://www.credly.com/badges/300e6185-6f5b-4105-96f7-062169a19056/public_url">
   <img src = "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="140" width="140px"> </a>
   <a href="https://www.credly.com/badges/a2ee5ac8-a7a7-42bf-b8fa-49f4c40fd61d/public_url">
   <img src ="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="140" width="140px"> </a>
