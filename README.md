@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">✨ BOJ ✨</h3>
-
+<p align="center"> <img src = "https://www.credly.com/badges/46467e2a-f612-43e0-ab22-9ce567c6e997/public_url" height="140" width="275px"> <img src ="https://www.credly.com/badges/a2ee5ac8-a7a7-42bf-b8fa-49f4c40fd61d/public_url" height="140" width="275px">
+<p align="center"> <img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku" height="140" width="275px"> <img src ="http://mazassumnida.wtf/api/generate_badge?boj=pinkku2" height="140" width="275px">
 <p align="center"> <img src = "http://mazassumnida.wtf/api/generate_badge?boj=pinkku" height="140" width="275px"> <img src ="http://mazassumnida.wtf/api/generate_badge?boj=pinkku2" height="140" width="275px">
 <p align="center">
     C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA
